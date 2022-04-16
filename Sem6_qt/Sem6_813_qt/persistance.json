@@ -1,0 +1,14 @@
+{
+    "aircrafts": [
+        {
+            "id": 1,
+            "maxAltitude": -842150451,
+            "model": "model1"
+        },
+		{
+            "id":2,
+            "maxAltitude": 123,
+            "model": "model2"
+        }
+    ]
+}
